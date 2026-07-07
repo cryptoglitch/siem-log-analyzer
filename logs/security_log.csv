@@ -1,0 +1,11 @@
+timestamp,event_id,user,source_ip,event
+2026-07-05 09:15:10,4625,Administrator,192.168.1.25,Failed Login
+2026-07-05 09:15:18,4625,Administrator,192.168.1.25,Failed Login
+2026-07-05 09:15:30,4625,Administrator,192.168.1.25,Failed Login
+2026-07-05 09:16:02,4624,Administrator,192.168.1.25,Successful Login
+2026-07-05 10:20:14,4720,ITAdmin,192.168.1.10,New User Created
+2026-07-05 11:05:22,4104,jsmith,192.168.1.50,PowerShell Executed
+2026-07-05 11:40:17,7036,SYSTEM,127.0.0.1,Windows Service Installed
+2026-07-05 12:05:33,1116,SYSTEM,127.0.0.1,Windows Defender Disabled
+2026-07-05 12:40:11,4740,jdoe,192.168.1.80,Account Locked
+2026-07-05 13:05:45,20001,jdoe,192.168.1.80,USB Device Connected
