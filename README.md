@@ -35,14 +35,31 @@ A Python-based Security Information and Event Management (SIEM) project that ana
 
 ---
 
-## Project Structure
-src/
-parser.py
-detections.py
-alert_builder.py
-alerts.py
-mitre.py
-main.py
+## 📁 Project Structure
+
+
+siem-log-analyzer/
+│
+├── logs/
+│   └── security_log.csv
+│
+├── screenshots/
+│   ├── security-log-events.png
+│   ├── brute-force-alert.png
+│   └── powershell-alert.png
+│
+├── src/
+│   ├── parser.py
+│   ├── detections.py
+│   ├── alert_builder.py
+│   ├── alerts.py
+│   ├── mitre.py
+│   └── main.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
 
 ---
 
