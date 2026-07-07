@@ -37,7 +37,7 @@ A Python-based Security Information and Event Management (SIEM) project that ana
 
 ## 📁 Project Structure
 
-
+```text
 siem-log-analyzer/
 │
 ├── logs/
@@ -46,7 +46,7 @@ siem-log-analyzer/
 ├── screenshots/
 │   ├── security-log-events.png
 │   ├── brute-force-alert.png
-│   └── powershell-alert.png
+│   ├── powershell-alert.png
 │
 ├── src/
 │   ├── parser.py
@@ -60,11 +60,6 @@ siem-log-analyzer/
 ├── requirements.txt
 └── .gitignore
 ```
-
----
-
----
-
 ## Future Improvements
 
 - Windows Defender Disabled detection
