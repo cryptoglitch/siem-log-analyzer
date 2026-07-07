@@ -43,3 +43,25 @@ alert_builder.py
 alerts.py
 mitre.py
 main.py
+
+---
+
+---
+
+## Future Improvements
+
+- Windows Defender Disabled detection
+- USB Device monitoring
+- Account creation detection
+- HTML reports
+- Interactive web dashboard
+- EVTX support
+- Threat scoring dashboard
+
+---
+
+## Author
+
+**Paloma Galindo**
+
+Aspiring Cybersecurity Engineer passionate about detection engineering, threat hunting, and security automation.
